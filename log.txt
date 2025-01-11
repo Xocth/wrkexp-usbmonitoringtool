@@ -1,0 +1,103 @@
+Program started at: 2024-11-17 20:26:44
+[2024-11-17 20:26:48] USB device inserted: Unknown Device
+Storage Drive: C:\
+  Volume Name: 
+  File System: NTFS
+  Serial Number: 4096604986
+Storage Drive: D:\
+  Volume Name: Seagate External HDD
+  File System: NTFS
+  Serial Number: 1088715329
+Storage Drive: E:\
+  Volume Name: SANDISK USB
+  File System: NTFS
+  Serial Number: 181683253
+[2024-11-17 20:26:52] USB device removed: Unknown Device
+Program started at: 2024-11-17 20:27:36
+Program started at: 2024-11-17 20:40:29
+[2024-11-17 20:40:48] USB device inserted: Unknown Device
+Storage Drive: C:\
+  Volume Name: 
+  File System: NTFS
+  Serial Number: 4096604986
+Storage Drive: D:\
+  Volume Name: Seagate External HDD
+  File System: NTFS
+  Serial Number: 1088715329
+Storage Drive: E:\
+  Volume Name: SANDISK USB
+  File System: NTFS
+  Serial Number: 181683253
+[2024-11-17 20:40:59] USB device removed: Unknown Device
+[2024-11-17 20:41:03] USB device inserted: Unknown Device
+Storage Drive: E:\
+  Volume Name: SANDISK USB
+  File System: NTFS
+  Serial Number: 181683253
+Program started at: 2024-11-17 20:45:03
+[2024-11-17 20:45:13] USB device removed: Unknown Device
+Storage Drive: C:\
+  Volume Name: 
+  File System: NTFS
+  Serial Number: 4096604986
+Storage Drive: D:\
+  Volume Name: Seagate External HDD
+  File System: NTFS
+  Serial Number: 1088715329
+[2024-11-17 20:45:14] USB device inserted: Unknown Device
+Storage Drive: E:\
+  Volume Name: SANDISK USB
+  File System: NTFS
+  Serial Number: 181683253
+[2024-11-17 20:45:21] USB device removed: Unknown Device
+[2024-11-17 20:45:25] USB device inserted: Unknown Device
+Storage Drive: E:\
+  Volume Name: SANDISK USB
+  File System: NTFS
+  Serial Number: 181683253
+Program started at: 2024-11-17 20:48:45
+[2024-11-17 20:48:49] USB device removed: Unknown Device
+Storage Drive: C:\
+  Volume Name: 
+  File System: NTFS
+  Serial Number: 4096604986
+Storage Drive: D:\
+  Volume Name: Seagate External HDD
+  File System: NTFS
+  Serial Number: 1088715329
+[2024-11-17 20:49:04] USB device inserted: Unknown Device
+Storage Drive: E:\
+  Volume Name: SANDISK USB
+  File System: NTFS
+  Serial Number: 181683253
+Program started at: 2024-11-17 20:55:19
+[2024-11-17 20:55:27] USB device inserted: Unknown Device
+Storage Drive: C:\
+  Volume Name: 
+  File System: NTFS
+  Serial Number: 4096604986
+Storage Drive: D:\
+  Volume Name: Seagate External HDD
+  File System: NTFS
+  Serial Number: 1088715329
+Storage Drive: E:\
+  Volume Name: SANDISK USB
+  File System: NTFS
+  Serial Number: 181683253
+Program started at: 2024-11-17 20:59:05
+[2024-11-17 20:59:36] USB device removed: Unknown Device
+Storage Drive: C:\
+  Volume Name: 
+  File System: NTFS
+  Serial Number: 4096604986
+Storage Drive: D:\
+  Volume Name: Seagate External HDD
+  File System: NTFS
+  Serial Number: 1088715329
+[2024-11-17 20:59:41] USB device inserted: Unknown Device
+Storage Drive: E:\
+  Volume Name: SANDISK USB
+  File System: NTFS
+  Serial Number: 181683253
+Program started at: 2024-11-17 21:03:20
+Program started at: 2024-11-17 21:16:28
